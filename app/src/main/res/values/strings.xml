@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Extension Function</string>
+    <string name="email_id">Email Id</string>
+    <string name="your_name">Your Name</string>
+    <string name="name_error_msg">Please enter your name</string>
+    <string name="email_error_msg">Please enter valid email id</string>
+    <string name="your_designation">Your Designation</string>
+    <string name="designation_error_msg">Please enter designation</string>
+</resources>
